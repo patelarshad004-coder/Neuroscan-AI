@@ -1,0 +1,11 @@
+torch
+torchvision
+streamlit
+plotly
+scikit-image
+nilearn
+h5py
+numpy
+matplotlib
+scipy
+pydicom
